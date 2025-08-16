@@ -72,6 +72,7 @@ The workflow includes **data cleaning, transformation, pivot table analysis, and
 ## 🧑‍💻 Author  
 **Srishankar Lokanath**  
 📍 Data Analyst | Business Analytics Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/srishankar-lokanath-99a5b4252) | [GitHub](https://github.com/Srishankar123)  
+🔗 [LinkedIn](https://www.linkedin.com/in/srishankar-lokanath-99a5b4252) | [GitHub](https://github.com/Srishankar123)  
+
 
 ---
