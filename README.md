@@ -55,10 +55,10 @@ The workflow includes **data cleaning, transformation, pivot table analysis, and
 ---
 
 ## 📸 Dashboard Preview  
-(Add your screenshots here after exporting them from Excel)
 
-![Dashboard Screenshot 1](images/dashboard1.png)  
-![Dashboard Screenshot 2](images/dashboard2.png)  
+![Dashboard Screenshot 1](<img width="917" height="635" alt="image" src="https://github.com/user-attachments/assets/9c8e8802-c287-42b3-8ac4-3f71050b8242" />
+)  
+ 
 
 ---
 
@@ -72,7 +72,8 @@ The workflow includes **data cleaning, transformation, pivot table analysis, and
 ## 🧑‍💻 Author  
 **Srishankar Lokanath**  
 📍 Data Analyst | Business Analytics Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/srishankar-lokanath-99a5b4252) | [GitHub](https://github.com/Srishankar123)  
+
+🔗 [Portfolio](https://srishankar.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/srishankar-lokanath-99a5b4252) | [GitHub](https://github.com/Srishankar123)  
 
 
 ---
