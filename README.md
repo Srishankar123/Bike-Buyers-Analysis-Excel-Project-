@@ -56,8 +56,8 @@ The workflow includes **data cleaning, transformation, pivot table analysis, and
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Screenshot 1](<img width="917" height="635" alt="image" src="https://github.com/user-attachments/assets/9c8e8802-c287-42b3-8ac4-3f71050b8242" />
-)  
+<img src="https://github.com/user-attachments/assets/9c8e8802-c287-42b3-8ac4-3f71050b8242" width="700" height="480">
+
  
 
 ---
